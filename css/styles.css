@@ -1,0 +1,42 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+.column1{
+    height: 480px;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+}
+.column2{
+    height: 500px;
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+}
+.column3{
+    height: 480px;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+}
+main{
+    display: flex
+}
+.Beginning{
+    height: 200px;
+    width: 400px;
+}
+.Military{
+    height: 200px;
+    width: 400px;
+}.Future{
+    height: 200px;
+    width: 400px;
+}
